@@ -1,0 +1,16 @@
+{
+  "name": "initial-coding",
+  "version": "1.0.0",
+  "description": "Aprendendo a programar com esse projeto. | Learning to program with this project.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Igor Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
